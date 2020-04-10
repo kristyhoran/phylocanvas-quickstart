@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phylocanvas/phylocanvas-quickstart.git"
+    "url": "git+https://github.com/kristyhoran/phylocanvas-quickstart.git"
   },
   "keywords": [
     "phylocanvas",
@@ -21,9 +21,9 @@
   "author": "The Centre for Genomic Pathogen Surveillance",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/phylocanvas/phylocanvas-quickstart/issues"
+    "url": "https://github.com/kristyhoran/phylocanvas-quickstart/issues"
   },
-  "homepage": "https://github.com/phylocanvas/phylocanvas-quickstart#readme",
+  "homepage": "https://github.com/kristyhoran/phylocanvas-quickstart#readme",
   "devDependencies": {
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
