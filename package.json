@@ -24,6 +24,9 @@
     "url": "https://github.com/kristyhoran/phylocanvas-quickstart/issues"
   },
   "homepage": "https://github.com/kristyhoran/phylocanvas-quickstart#readme",
+  "dependencies": {
+    "@cgps/phylocanvas-plugin-metadata": "3.18.0"
+  },
   "devDependencies": {
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
